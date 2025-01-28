@@ -9,4 +9,9 @@ wheels/
 # Virtual environments
 .venv
 
-data/
+# data/
+*.pdf
+*.md
+
+# ignorar a lista de convidados por privacidade
+data/LISTA_DOS_CONVIDADOS.csv
